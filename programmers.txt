@@ -1,0 +1,4 @@
+Iulian;3;5
+Toma;10;10
+Tudor;9;10
+Mitza;0;3
